@@ -1,0 +1,29 @@
+name: pythonProject
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2021.4.13=haa95532_1
+  - certifi=2020.12.5=py36haa95532_0
+  - cffi=1.14.5=py36hcd4344a_0
+  - cryptography=2.9.2=py36h7a1dbc1_0
+  - idna=3.1=pyhd3eb1b0_0
+  - mkl=2017.0.3=0
+  - numpy=1.13.1=py36_0
+  - openssl=1.1.1k=h2bbff1b_0
+  - pandas=0.20.3=py36_0
+  - pip=21.1.1=py36haa95532_0
+  - pycparser=2.20=py_2
+  - pyjwt=2.1.0=py36haa95532_0
+  - python=3.6.13=h3758d61_0
+  - python-dateutil=2.8.1=pyhd3eb1b0_0
+  - pytz=2021.1=pyhd3eb1b0_0
+  - setuptools=52.0.0=py36haa95532_0
+  - six=1.15.0=py36haa95532_0
+  - sqlite=3.35.4=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - wincertstore=0.2=py36h7fe50ca_0
+prefix: D:\Anaconda3\envs\pythonProject

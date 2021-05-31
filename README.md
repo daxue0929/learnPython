@@ -9,4 +9,9 @@
     runtime environments: python 3.6.7
     developers environments: PyCharm 2018.3
 
+#### 运行环境
+    
+    Anaconda导出文件为
+
+
     
