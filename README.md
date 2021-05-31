@@ -11,7 +11,7 @@
 
 #### 运行环境
     
-    Anaconda导出文件为
+    Anaconda导出文件为 pythonProjectEnv.yml
 
 
     
