@@ -1,6 +1,8 @@
 name: pythonProject
 channels:
   - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
   - defaults
 dependencies:
   - blas=1.0=mkl
@@ -26,4 +28,6 @@ dependencies:
   - vs2015_runtime=14.27.29016=h5e58377_2
   - wheel=0.36.2=pyhd3eb1b0_0
   - wincertstore=0.2=py36h7fe50ca_0
+  - pip:
+      - pycryptodome==3.20.0
 prefix: D:\Anaconda3\envs\pythonProject
